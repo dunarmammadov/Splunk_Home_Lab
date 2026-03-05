@@ -66,9 +66,15 @@ Qeyd: İstəsəniz, paket digər üsullarla da yüklənə bilər.
   ![splunk2](images/splunk2.png)
   ![splunk3](images/splunk3.png)
   ![splunk4](images/splunk4.png)
+
+  
   Splunk Forwarder quraşdırıldıqdan sonra serverin IP ünvanını və 9997 portunu düzgün şəkildə təyin etməliyik. Bu addım logların Windows cihazından Splunk serverinə doğru göndərilməsi üçün vacibdir.
+
+  
   ![splunk23](images/Splunk23.png)
+  
   Splunk Forwarder hazirdir
+  
   ![splunk6](images/splunk6.png)
  
 
