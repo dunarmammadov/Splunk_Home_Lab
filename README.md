@@ -66,6 +66,7 @@ Qeyd: İstəsəniz, paket digər üsullarla da yüklənə bilər.
   ![splunk2](images/splunk2.png)
   ![splunk3](images/splunk3.png)
   ![splunk4](images/splunk4.png)
+  ![splunk23](images/Splunk23.png)
   ![splunk6](images/splunk6.png)
  
 
