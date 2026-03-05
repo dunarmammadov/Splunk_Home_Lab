@@ -34,6 +34,20 @@ http://SERVER_IP:8000
 
  ![web](images/web.png)
 
+ Gördüyünüz kimi Splunk Web giriş səhifəsi açılır və burada admin istifadəçi adı və təyin etdiyimiz parol ilə sistemə daxil ola bilərik
+
+  ![WEB](images/sehife.png)
+
+  Splunk Web interfeysinə daxil olduqdan sonra bizi aşağıdakı kimi bir səhifə qarşılayır. Növbəti mərhələyə keçmək üçün Windows üzərində Splunk Forwarder quraşdırmaq məqsədilə 9997 portunu aktiv etməliyik.
+
+Bu port müxtəlif cihazlardan Splunk serverinə logların göndərilməsi (log forwarding) üçün istifadə olunur.
+
+Qeyd: 9997 portu yalnız Splunk daxilində deyil, eyni zamanda Splunk-un quraşdırıldığı serverin firewall-unda (təhlükəsizlik divarında) da mütləq açıq olmalıdır. Əks halda digər cihazlardan logların Splunk-a göndərilməsi mümkün olmayacaq.
+
+Aşağıdakı şəkillərdə bu prosesin necə icra olunduğu göstərilmişdir.
+
+
+
  
 
 
