@@ -8,4 +8,7 @@ Splunk Enterprise-i quraşdırmaq üçün ilk addım Splunk-un rəsmi saytına d
 
 Aşağıdakı şəkillərdə Splunk Enterprise (.deb) paketinin quraşdırılması göstərilmişdir. Bundan əlavə, istəyə görə digər uzantılı paketləri də quraşdıra bilərsiniz. Bu isə tamamilə opsional seçimdi
 
+![Image1](images/image1.png)
+![Image2](images/image2.png)
+![Image3](images/image3.png)
 
