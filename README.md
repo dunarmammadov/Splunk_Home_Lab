@@ -26,6 +26,20 @@ Daha sonra isə aşağıdakı şəkildə göstərildiyi kimi Splunk-un uğurla q
 
 ![Status](images/status.png)
 
+Daha sonra serverin IP ünvanı vasitəsilə Splunk Web interfeysinə daxil oluruq. Bunun üçün brauzerdə serverin IP ünvanını və Splunk-un standart portunu istifadə edirik.
+
+http://SERVER_IP:8000
+
+ QEYD!  Splunk Web interfeysinə daxil olmaq üçün 8000 portunun firewall üzərindən açıq olması mütləqdir. Əks halda brauzer vasitəsilə Splunk Web interfeysinə qoşulmaq mümkün olmayacaq.
+
+ ![web](images/web.png)
+
+ 
+
+
+ 
+ 
+
 
 
 
