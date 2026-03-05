@@ -76,6 +76,13 @@ Qeyd: İstəsəniz, paket digər üsullarla da yüklənə bilər.
   Splunk Forwarder hazirdir
   
   ![splunk6](images/splunk6.png)
+
+
+  Gördüyünüz kimi, Windows cihazı Splunk serverinə əlavə olundu və loglar artıq Splunk-a göndərilməyə başlayıb.
+
+  ![computer1](images/computer1.png)
+  ![computer2](images/computer2.png)
+  
  
 
 
