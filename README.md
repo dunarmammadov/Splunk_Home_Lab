@@ -22,6 +22,12 @@ Növbəti mərhələdə Splunk lisenziyasını qəbul edirik və Splunk Web inte
 
 ![Image5](images/image5.png)
 
+Daha sonra isə aşağıdakı şəkildə göstərildiyi kimi Splunk-un uğurla quraşdırılıb-quraşdırılmadığını yoxlayırıq. Bu addım quraşdırmanın düzgün tamamlandığını təsdiqləmək üçün vacibdir.
+
+![Status](images/status.png)
+
+
+
 
 
 
