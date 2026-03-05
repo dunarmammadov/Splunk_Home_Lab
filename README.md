@@ -14,5 +14,15 @@ Aşağıdakı şəkillərdə Splunk Enterprise (.deb) paketinin quraşdırılmas
 
 Növbəti addımda Splunk-un quraşdırıldığı qovluğa keçməliyik. Bunun üçün aşağıdakı əmrdən istifadə edirik:
 
+![Image4](images/image4.png)
+
+![Qurasdirma](images/qurasdirma.png)
+
+Növbəti mərhələdə Splunk lisenziyasını qəbul edirik və Splunk Web interfeysinə daxil olmaq üçün istifadəçi adı və parol təyin edirik. Bu addım sistemə təhlükəsiz giriş üçün vacibdir
+
+![Image5](images/image5.png)
+
+
+
 
 
