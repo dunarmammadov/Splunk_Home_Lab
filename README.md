@@ -1,4 +1,32 @@
 # Splunk_Home_Lab
+Splunk Enterprise-in rəsmi tələblərinə görə minimum sistem tələbləri belədir:
+
+RAM:
+
+Minimum: 4 GB
+
+Tövsiyə olunur: 8 GB və ya daha çox (böyük log həcmləri üçün daha çox RAM lazım ola bilər)
+
+Disk sahəsi:
+
+Minimum: 20 GB boş disk sahəsi
+
+Tövsiyə olunur: 100 GB və daha çox, logların saxlanması və indeksləmə üçün
+
+CPU:
+
+Minimum: 2 nüvəli prosessor
+
+Tövsiyə olunur: 4 və ya daha çox nüvəli prosessor
+
+Əməliyyat sistemi:
+
+Linux (Ubuntu, CentOS, RHEL)
+
+Windows Server (2016 və yuxarı)
+
+.deb / .rpm paketləri – Linux üçün quraşdırmada istifadə olunur.
+
 Siz burada Splunk Enterprise-in Microsoft Azure üzərində Ubuntu serverdə quraşdırılmasını, həmçinin Splunk Forwarder-in Windows üzərində quraşdırılmasını və logların Splunk-a yönləndirilməsini şəkillərlə birlikdə görə bilərsiniz
 Splunk Enterprise Quraşdırılması
 
