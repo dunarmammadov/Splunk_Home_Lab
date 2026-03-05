@@ -50,6 +50,24 @@ Aşağıdakı şəkillərdə bu prosesin necə icra olunduğu göstərilmişdir.
   ![four](images/four.png)
   ![five](images/five.png)
   ![firewall](images/firewall.png)
+
+  Windows Üzərində Splunk Forwarder Quraşdırılması
+
+Növbəti addımda Windows üzərində Splunk Forwarder quraşdırmaq üçün rəsmi Splunk Forwarder saytına daxil oluruq. Oradan uyğun quraşdırma paketini seçirik və PowerShell üzərindən yükləyirik.
+
+Qeyd: İstəsəniz, paket digər üsullarla da yüklənə bilər.
+
+ ![forwarder](images/splunk_forwarder.png)
+ ![powershell](images/powershell.png)
+
+ Aşağıdakı şəkillərdə Windows üzərində Splunk Forwarder-in quraşdırılma prosesini görə bilərsiniz.
+
+  ![splunk1](images/splunk1.png)
+  ![splunk2](images/splunk2.png)
+  ![splunk3](images/splunk3.png)
+  ![splunk4](images/splunk4.png)
+  ![splunk5](images/splunk5.png)
+  ![splunk6](images/splunk6.png)
  
 
 
