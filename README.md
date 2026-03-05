@@ -34,6 +34,16 @@ http://SERVER_IP:8000
 
  ![web](images/web.png)
 
+ Aşağıdakı şəkillərdə bu prosesin necə icra olunduğu göstərilmişdir.
+
+  ![one](images/one.png)
+  ![two](images/two.png)
+  ![three](images/three.png) 
+  ![four](images/four.png)
+  ![five](images/five.png)
+  ![firewall](images/firewall.png)
+ 
+
  Gördüyünüz kimi Splunk Web giriş səhifəsi açılır və burada admin istifadəçi adı və təyin etdiyimiz parol ilə sistemə daxil ola bilərik
 
   ![WEB](images/sehife.png)
