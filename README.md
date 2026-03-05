@@ -12,3 +12,7 @@ Aşağıdakı şəkillərdə Splunk Enterprise (.deb) paketinin quraşdırılmas
 ![Image2](images/image2.png)
 ![Image3](images/image3.png)
 
+Növbəti addımda Splunk-un quraşdırıldığı qovluğa keçməliyik. Bunun üçün aşağıdakı əmrdən istifadə edirik:
+
+
+
